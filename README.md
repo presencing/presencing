@@ -3,6 +3,8 @@
 > **A framework for AI agents that are *present* — not just reactive.**
 >
 > 让 AI 持续临在，而不只是被动响应。
+>
+> 🇨🇳 [中文版 →](README.zh.md)
 
 ---
 
