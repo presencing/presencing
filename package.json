@@ -1,0 +1,20 @@
+{
+  "name": "presencing-monorepo",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A framework for building AI agents that are present, not just reactive.",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "test": "npm run test --workspaces --if-present"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/presencing/presencing.git"
+  },
+  "homepage": "https://github.com/presencing/presencing",
+  "license": "MIT",
+  "author": "Xia Tao"
+}

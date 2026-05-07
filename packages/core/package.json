@@ -1,0 +1,35 @@
+{
+  "name": "@presencing/core",
+  "version": "0.0.1",
+  "description": "Core abstractions for Presencing — a framework for AI agents that are present, not just reactive.",
+  "keywords": [
+    "ai",
+    "agent",
+    "llm",
+    "presence",
+    "framework",
+    "daemon",
+    "proactive",
+    "persona"
+  ],
+  "homepage": "https://github.com/presencing/presencing#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/presencing/presencing.git",
+    "directory": "packages/core"
+  },
+  "bugs": {
+    "url": "https://github.com/presencing/presencing/issues"
+  },
+  "license": "MIT",
+  "author": "Xia Tao",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

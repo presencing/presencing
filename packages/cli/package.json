@@ -1,0 +1,36 @@
+{
+  "name": "@presencing/cli",
+  "version": "0.0.1",
+  "description": "Command-line tools for Presencing — bootstrap and manage presence-aware AI agents.",
+  "keywords": [
+    "ai",
+    "agent",
+    "cli",
+    "presence",
+    "framework",
+    "daemon"
+  ],
+  "homepage": "https://github.com/presencing/presencing#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/presencing/presencing.git",
+    "directory": "packages/cli"
+  },
+  "bugs": {
+    "url": "https://github.com/presencing/presencing/issues"
+  },
+  "license": "MIT",
+  "author": "Xia Tao",
+  "bin": {
+    "presencing": "src/bin.js"
+  },
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
