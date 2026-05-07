@@ -6,7 +6,7 @@
 
 🌱 **0.0.x — early preview / brand placeholder.**
 
-Core abstractions (`Stream`, `Pulse`, `SoulContext`) are being distilled from a year of dogfooding. They'll land here once stable enough that v0.1 doesn't have to be rewritten in v0.2.
+Core abstractions (`Stream`, `Pulse`, `SoulContext`) are being distilled from months of dogfooding. They'll land here once stable enough that v0.1 doesn't have to be rewritten in v0.2.
 
 Star [the main repo](https://github.com/presencing/presencing) to be notified.
 

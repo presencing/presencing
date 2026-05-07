@@ -1,7 +1,7 @@
 // @presencing/core — early preview placeholder
 //
 // The core abstractions (Stream / Pulse / SoulContext) are still being
-// distilled from a year of building presence-aware agents in production.
+// distilled from months of building presence-aware agents in dogfood form.
 // They will land here once stable enough that v0.1 doesn't have to be
 // rewritten in v0.2.
 //
